@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的博客</title>
+    <url>/2020/07/20/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>今天，我将我的博客搭建成功了。。。</p>
+]]></content>
+      <tags>
+        <tag>记录</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Docker的安装</title>
     <url>/2020/08/01/Docker%E7%9A%84%E5%AE%89%E8%A3%85/</url>
     <content><![CDATA[<p>[TOC]</p>
@@ -57,17 +66,11 @@
 <h2 id="3-最后检查docker-compose是否安装成功"><a href="#3-最后检查docker-compose是否安装成功" class="headerlink" title="3. 最后检查docker-compose是否安装成功"></a>3. 最后检查docker-compose是否安装成功</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> docker-compose --version</span></span><br><span class="line">docker-compose version 1.23.1, build 1719ceb</span><br></pre></td></tr></table></figure>
 
 ]]></content>
+      <categories>
+        <category>Docker</category>
+      </categories>
       <tags>
         <tag>Docker</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的博客</title>
-    <url>/2020/07/20/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>今天，我将我的博客搭建成功了。。。</p>
-]]></content>
-      <tags>
-        <tag>记录</tag>
       </tags>
   </entry>
 </search>
